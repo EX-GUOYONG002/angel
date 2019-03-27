@@ -27,7 +27,7 @@
 		<jackson.modules>2.9.6</jackson.modules>
 	</properties>
   <dependencies>
-		<!--eureka 客户端-->
+		<!--eureka 客户端--> 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
